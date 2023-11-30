@@ -1,0 +1,17 @@
+
+jsx
+import React from 'react';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <header className="App-header">
+        <h1>Meu Primeiro Aplicativo React</h1>
+        <p>Bem-vindo ao mundo React!</p>
+      </header>
+    </div>
+  );
+}
+
+export default App;
